@@ -1,2 +1,2 @@
 # andrew18ned.github.io
-My first site
+Мій простий сайт. Можна переходити за посиланням: https://andrew18ned.github.io/

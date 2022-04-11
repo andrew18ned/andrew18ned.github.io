@@ -1,3 +1,3 @@
-# andrew18ned.github.io
+# Bussiness Travel
 [My girst working site](https://andrew18ned.github.io/)
 ![Мій перший робочий сайт](https://github.com/andrew18ned/andrew18ned.github.io/blob/main/mainpage.png)
